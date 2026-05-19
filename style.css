@@ -39,9 +39,13 @@ header{
   padding:15px;
 }
 
-.card img{
-  width:100%;
+.card{
+  background:white;
+  width:250px;
   border-radius:10px;
+  box-shadow:0 4px 15px rgba(0,0,0,0.1);
+  padding:15px;
+  overflow:hidden;
 }
 
 .contato{
